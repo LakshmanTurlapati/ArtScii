@@ -1,10 +1,6 @@
-   ___      ___      ___   
-  /   \    /   \    /   \  
- /     \  /     \  /     \ 
-/_______\/_______\/_______\
-   ASCII Video Magic
 
-# ArtScii-Art 
+
+# ArtScii 
 
 ## Overview
 This project allows you to convert images and videos into ASCII art. You can display the output in the terminal or within a graphical window. The tool supports uploading images and videos or even capturing live video using a webcam.
