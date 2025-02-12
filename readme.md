@@ -15,15 +15,6 @@ This project allows you to convert images and videos into ASCII art. You can dis
 
 ## Setup Instructions
 
-### Step 1: Clone the Repository
-Clone this repository to your local machine:
-```bash
-git clone <repository-url>
-cd <repository-folder>
-```
-
-### Step 2: Set Up a Virtual Environment
-Create and activate a Python virtual environment:
 ```bash
 # On Linux/MacOS
 python3 -m venv venv
@@ -34,13 +25,12 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### Step 3: Install Dependencies
 Install the required Python libraries:
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 4: Install Tkinter (Optional)
+
 For GUI functionalities, ensure that `tkinter` is installed. It is typically included with Python, but if not, install it via your package manager:
 ```bash
 # On Ubuntu/Debian
